@@ -1,3 +1,10 @@
+📝 To-Do:
+- [X] Finalizar as Aulas
+- [ ] Reformular o ReadMe.md
+- [ ] Personalizar a meu gosto
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
